@@ -1,0 +1,36 @@
+.containeur {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-column-gap: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+
+/*largeur > 576px */
+
+@media (min-width: 36rem) {
+    ...
+}
+
+
+/*largeur > 768px */
+
+@media (min-width: 768px) {
+    ...
+}
+
+
+/*largeur > 992px */
+
+@media (min-width: 992px) {
+    ...
+}
+
+
+/*largeur > 1200px */
+
+@media (min-width: 1200px) {
+    ...
+}
