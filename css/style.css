@@ -26,6 +26,9 @@
     flex-direction: column;
     justify-self: center;
     align-content: center;
+}
+
+.would {
     text-align: center;
 }
 
@@ -85,7 +88,6 @@
 
 .radioLeft {
     grid-column: 1;
-    justify-self: center;
 }
 
 .radioRight {
