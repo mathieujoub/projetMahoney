@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mathieujoub/projetMahoney/issues"
   },
-  "homepage": "https://github.com/mathieujoub/projetMahoney#readme"
+  "homepage": "https://github.com/mathieujoub/projetMahoney#readme",
+  "dependencies": {
+    "react": "^16.13.1"
+  }
 }
