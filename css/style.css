@@ -26,6 +26,7 @@
     flex-direction: column;
     justify-self: center;
     align-content: center;
+    text-align: center;
 }
 
 
@@ -65,6 +66,11 @@
 /*largeur > 1200px */
 
 @media (min-width: 1200px) {}
+
+.titlePro {
+    grid-column: 1/-1;
+    justify-self: center;
+}
 
 .checked {
     display: grid;
